@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Szucsim!
+# 👋 Hi, I'm Imre Szücs!
 
 I'm a passionate **Software Engineer** specializing in .NET desktop development, with a strong focus on building robust and user-friendly applications.
 

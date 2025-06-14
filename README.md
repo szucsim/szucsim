@@ -16,8 +16,8 @@ I'm a passionate **Software Engineer** specializing in .NET desktop development,
 ## 🚀 Featured Project
 
 ### [GymGo](https://gymgo-app.github.io/)
-> _GymGo_ is my latest side project—a fitness app that I developed as a hobby!  
-> Check it out for a blend of tech and healthy living.
+_GymGo_ is my latest side project—a fitness app that I developed as a hobby!  
+Check it out for a blend of tech and healthy living.
 
 ---
 

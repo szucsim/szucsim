@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Imre Szücs!
 
-I'm a passionate **Software Engineer** specializing in .NET desktop development, with a strong focus on building robust and user-friendly applications.
+I'm a passionate **Software Developer** specializing in .NET desktop development, with a strong focus on building robust and user-friendly applications.
 
 ---
 
@@ -29,8 +29,7 @@ Recently, working on **GymGo** motivated me to actually start going to the gym�
 
 ## 📫 Contact Me
 
-- **Email:** szucsim19@gmail.com  
-- **Phone:** +36 30 234 9652
+- **Email:** szucsim19@gmail.com
 
 ---
 

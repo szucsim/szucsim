@@ -7,7 +7,7 @@ Focused on **desktop and cross-platform development**, I enjoy transforming idea
 
 ## 🛠️ Main Skills & Tech
 
-- **.NET Stack:** WPF, MAUI, Blazor  
+- **.NET Stack:** WPF, MAUI  
 - **E-commerce:** nopCommerce  
 - **API Integrations:** Excel-DNA + Interop, SolidWorks API  
 - **Database:** PostgreSQL, EF Core  
@@ -18,7 +18,7 @@ Focused on **desktop and cross-platform development**, I enjoy transforming idea
 ## 🚀 Featured Projects
 
 ### 🔐 [FirebaseAuth.NET](https://www.nuget.org/packages/FirebaseAuth.NET)
-A lightweight, cross-platform **Firebase Authentication** library for .NET 9.  
+A lightweight, cross-platform **Firebase Authentication** library for .NET  
 Supports **Email + Password login**, password reset, token refresh, and secure persistence.  
 Designed for MAUI, Blazor, and desktop apps.  
 📦 Available on NuGet → `dotnet add package FirebaseAuth.NET`  
